@@ -1,0 +1,83 @@
+2022.07.10 09:55:37 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at e:\java script\tutorial 1 scala\.metals\lsp.trace.json or C:\Users\DELL\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.07.10 09:55:38 INFO  logging to file E:\java script\tutorial 1 scala\.metals\metals.log
+2022.07.10 09:55:38 INFO  Started: Metals version 0.11.7 in workspace 'E:\java script\tutorial 1 scala' for client Visual Studio Code 1.69.0.
+2022.07.10 09:55:40 INFO  time: initialize in 1.27s
+2022.07.10 09:55:40 WARN  Flyway upgrade recommended: H2 2.1.214 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.1.210.
+2022.07.10 09:55:40 WARN  Build server is not auto-connectable.
+2022.07.10 09:55:40 WARN  no build tool detected in workspace 'E:\java script\tutorial 1 scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.07.10 09:55:43 WARN  no build target for: E:\java script\tutorial 1 scala\q1.scala
+2022.07.10 09:55:47 INFO  no build target found for E:\java script\tutorial 1 scala\q1.scala. Using presentation compiler with project's scala-library version: 3.1.3
+Jul 10, 2022 9:55:47 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4
+Jul 10, 2022 9:55:47 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+Jul 10, 2022 9:55:47 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11
+Jul 10, 2022 9:55:47 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 14
+Jul 10, 2022 9:55:47 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10
+2022.07.10 09:55:48 INFO  time: code lens generation in 1s
+2022.07.10 09:55:48 INFO  time: code lens generation in 1.18s
+2022.07.10 09:55:48 INFO  time: code lens generation in 1.06s
+2022.07.10 09:55:48 INFO  time: code lens generation in 1.03s
+2022.07.10 09:57:16 WARN  no build target for: E:\java script\tutorial 1 scala\q1.scala
+2022.07.10 09:59:23 WARN  no build target for: E:\java script\tutorial 1 scala\q1.scala
+2022.07.10 10:06:18 WARN  no build target for: E:\java script\tutorial 1 scala\q1.scala
+2022.07.10 10:07:05 WARN  no build target for: E:\java script\tutorial 1 scala\q1.scala
+2022.07.10 10:08:10 WARN  no build target for: E:\java script\tutorial 1 scala\q1.scala
+2022.07.10 10:11:04 WARN  no build target for: E:\java script\tutorial 1 scala\q1.scala
+2022.07.10 10:13:42 WARN  no build target for: E:\java script\tutorial 1 scala\q2.scala
+2022.07.10 10:23:36 WARN  no build target for: E:\java script\tutorial 1 scala\q2.scala
+2022.07.10 10:25:48 WARN  no build target for: E:\java script\tutorial 1 scala\q2.scala
+Jul 10, 2022 10:26:50 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2089
+2022.07.10 10:27:08 WARN  no build target for: E:\java script\tutorial 1 scala\q3.scala
+2022.07.10 10:28:06 WARN  no build target for: E:\java script\tutorial 1 scala\q2.scala
+2022.07.10 10:30:43 WARN  no build target for: E:\java script\tutorial 1 scala\q2.scala
+2022.07.10 10:58:38 WARN  no build target for: E:\java script\tutorial 1 scala\q3.scala
+2022.07.10 11:01:18 WARN  no build target for: E:\java script\tutorial 1 scala\q3.scala
+2022.07.10 11:01:52 WARN  no build target for: E:\java script\tutorial 1 scala\q3.scala
+2022.07.10 11:03:04 WARN  no build target for: E:\java script\tutorial 1 scala\q3.scala
+2022.07.10 11:03:53 WARN  no build target for: E:\java script\tutorial 1 scala\q3.scala
+Jul 10, 2022 11:04:18 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3225
+2022.07.10 11:11:55 WARN  no build target for: E:\java script\tutorial 1 scala\q3.scala
+2022.07.10 11:13:25 WARN  no build target for: E:\java script\tutorial 1 scala\q3.scala
+2022.07.10 11:18:52 WARN  no build target for: E:\java script\tutorial 1 scala\q3.scala
+2022.07.10 11:20:00 WARN  no build target for: E:\java script\tutorial 1 scala\q3.scala
+2022.07.10 11:20:47 WARN  no build target for: E:\java script\tutorial 1 scala\q4.scala
+2022.07.10 13:49:44 WARN  no build target for: E:\java script\tutorial 1 scala\q4a).scalaJul 10, 2022 1:49:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4151
+
+Jul 10, 2022 1:51:33 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4227
+2022.07.10 13:51:33 INFO  time: code lens generation in 1.65s
+Jul 10, 2022 1:52:15 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4311
+Jul 10, 2022 1:52:15 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4312
+Jul 10, 2022 1:52:15 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4314
+Jul 10, 2022 1:53:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4542
+Jul 10, 2022 1:53:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4544
+Jul 10, 2022 1:54:51 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Jul 10, 2022 1:54:56 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2022.07.10 14:02:28 WARN  no build target for: E:\java script\tutorial 1 scala\q4a).scala
+2022.07.10 14:03:55 WARN  no build target for: E:\java script\tutorial 1 scala\q4.scala
+Jul 10, 2022 2:04:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5670
+2022.07.10 14:04:23 WARN  no build target for: E:\java script\tutorial 1 scala\q4.scala
+2022.07.10 14:08:16 WARN  no build target for: E:\java script\tutorial 1 scala\q4a.scala
+2022.07.10 14:08:24 WARN  no build target for: E:\java script\tutorial 1 scala\q4a.scala
+2022.07.10 14:09:10 WARN  no build target for: E:\java script\tutorial 1 scala\q4b.scala
+2022.07.10 14:17:01 WARN  no build target for: E:\java script\tutorial 1 scala\q4b.scala
+2022.07.10 14:17:53 WARN  no build target for: E:\java script\tutorial 1 scala\q4b.scala
+2022.07.10 14:18:30 WARN  no build target for: E:\java script\tutorial 1 scala\q4b.scala
+2022.07.10 14:22:47 WARN  no build target for: E:\java script\tutorial 1 scala\q4b.scala
+2022.07.10 14:23:13 WARN  no build target for: E:\java script\tutorial 1 scala\q2.scala
+2022.07.10 14:32:49 INFO  shutting down Metals
